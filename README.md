@@ -13,8 +13,9 @@ They play a crucial role in various aspects of business, education and personal 
 - Key features: Organization, Calculatons, Data analysis, Visualization & Collaboration
 - Common uses: Financial management, Data tracking, Analysis & Reporting, and Decision making
 - Differences
+
 |Features|Microsoft Excel|Google sheet|
-|--------|----------------|------------|
+|--------|---------------|------------|
 |Ownership|Requires installation & licenses|Cloud-based, accessible online|
 |Cost|Paid software, licenses required|Free basic features,paid options|
 |Functionalities|Advanced data analysis tools|Basic to intermediate capabilities|
