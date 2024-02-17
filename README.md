@@ -5,3 +5,4 @@ This reprository is an archive of my learning journals during the data analysis 
 2. Github Fundamentals - [Create Your Account](https://github.com/)
 3. PowerQuery - [Download Here](https://www.youtube.com/watch?v=jBEFaDCXB34)
 4. Introduction to PowerBI - [Watch Tutorials Here](https://www.youtube.com/watch?v=e6QD8lP-m6E&t=297s)
+## <p align='left'/> 1.0 SPREADSHEET FUNDAMENTALS </p>
