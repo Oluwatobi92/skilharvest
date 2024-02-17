@@ -9,3 +9,13 @@ This reprository is an archive of my learning journals during the data analysis 
 Spreadsheets are powerful tools used for organizing, analyzing and presenting data in a structured format. They consists of rows and columns, forming a grid where data can be entered, manipulated and calculated.
 
 They play a crucial role in various aspects of business, education and personal organization. Hence, understanding their features and capabilities can significantly enhance productivity and decision making processes.
+- Major types: Microsoft Excel & Google sheets
+- Key features: Organization, Calculatons, Data analysis, Visualization & Collaboration
+- Common uses: Financial management, Data tracking, Analysis & Reporting, and Decision making
+- Differences
+|Features|Microsoft Excel|Google sheet|
+|--------|----------------|------------|
+|Ownership|Requires installation & licenses|Cloud-based, accessible online|
+|Cost|Paid software, licenses required|Free basic features,paid options|
+|Functionalities|Advanced data analysis tools|Basic to intermediate capabilities|
+|Collaboration|Limited collaboration features|Robust real-time collaboration capabilities|
