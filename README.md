@@ -17,6 +17,6 @@ They play a crucial role in various aspects of business, education and personal 
 |Features|Microsoft Excel|Google sheet|
 |--------|---------------|------------|
 |Ownership|Requires installation & licenses|Cloud-based, accessible online|
-|Cost|Paid software, licenses required|Free basic features,paid options|
+|Cost|Paid software, licenses required|Free basic features, paid options|
 |Functionalities|Advanced data analysis tools|Basic to intermediate capabilities|
 |Collaboration|Limited collaboration features|Robust real-time collaboration capabilities|
