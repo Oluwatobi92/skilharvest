@@ -6,3 +6,6 @@ This reprository is an archive of my learning journals during the data analysis 
 3. PowerQuery - [Download Here](https://www.youtube.com/watch?v=jBEFaDCXB34)
 4. Introduction to PowerBI - [Watch Tutorials Here](https://www.youtube.com/watch?v=e6QD8lP-m6E&t=297s)
 ## <p align='left'/> 1.0 SPREADSHEET FUNDAMENTALS </p>
+Spreadsheets are powerful tools used for organizing, analyzing and presenting data in a structured format. They consists of rows and columns, forming a grid where data can be entered, manipulated and calculated.
+
+They play a crucial role in various aspects of business, education and personal organization. Hence, understanding their features and capabilities can significantly enhance productivity and decision making processes.
