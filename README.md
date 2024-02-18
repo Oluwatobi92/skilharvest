@@ -20,3 +20,12 @@ They play a crucial role in various aspects of business, education and personal 
 |Cost|Paid software, licenses required|Free basic features, paid options|
 |Functionalities|Advanced data analysis tools|Basic to intermediate capabilities|
 |Collaboration|Limited collaboration features|Robust real-time collaboration capabilities|
+## <p align='left'/> 2.0 GITHUB FUNDAMENTALS </p>
+**A.** Here, we were introduced to Github as a/an;
+- Version control & Collaboration Tool
+- Open source
+- Learning resources
+
+**B.** How to create a Github account
+**C.** How to create a repository
+**D.** How to develop a Github project readme file
