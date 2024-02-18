@@ -27,5 +27,9 @@ They play a crucial role in various aspects of business, education and personal 
 - Learning resources
 
 **B.** How to create a Github account
+
 **C.** How to create a repository
+
 **D.** How to develop a Github project readme file
+## <p align='left'/> 3.0 POWER QUERY </p>
+Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use cases of power query functions. Below is an excerpt from the datasheet.
