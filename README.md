@@ -39,11 +39,14 @@ Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use c
   </div>
   
 ## <p align='left'/> 3.1 POWER QUERY EXERCISES </p>
-1. Show the sales rep whose items are pen Set and binders
+1. Show the sales rep whose items are Pen Set and binders
 2. Show the sales of binder items and pencils in 2015
 3. Show the sales in central and east region in 2014
 4. Show the sales in August and September 2014
 5. Show the sales of items that start with Pen, including their region sales rep and year
 6. Show the sales of items that ends with 'sk', including their region sales rep and year
 # <p align='center'/> TASK ONE </p>
+```
+PowerQuery
+=QUERY(A:H, "SELECT B,C WHERE C='Pen Set' OR C='Binder'",1)
 ```
