@@ -37,7 +37,8 @@ Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use c
 # <div align="center">
   <img src="image1.png">
   </div>
-## <p align="left"/> 3.1 POWER QUERY EXERCISES </p>
+  
+## <p align='left'/> 3.1 POWER QUERY EXERCISES </p>
 1. Show the sales rep whose items are pen Set and binders
 2. Show the sales of binder items and pencils in 2015
 3. Show the sales in central and east region in 2014
