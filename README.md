@@ -81,7 +81,7 @@ PowerQuery
 ```
 
 # <div align='center'/>
-<img src='ImageE.jpg'>
+<img src='ImageE.JPG'>
 </div>
 
 # <p align='center'/> TASK FIVE </p>
@@ -91,7 +91,7 @@ PowerQuery
 ```
 
 # <div align='center'/>
-<img src='ImageF.jpg'>
+<img src='ImageF.JPG'>
 </div>
 
 # <p align='center'/> TASK SIX </p>
@@ -101,7 +101,7 @@ PowerQuery
 ```
 
 # <div align='center'/>
-<img src='ImageG.jpg'>
+<img src='ImageG.JPG'>
 </div>
 
-## <p align='left'/> INTRODUCTION TO POWERBI </p>
+## <p align='center'/> INTRODUCTION TO POWERBI </p>
