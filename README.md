@@ -104,4 +104,4 @@ PowerQuery
 <img src='ImageG.JPG'>
 </div>
 
-## <p align='center'/> INTRODUCTION TO POWERBI </p>
+## <p align='left'/> 4.0 INTRODUCTION TO POWERBI </p>
