@@ -53,3 +53,11 @@ PowerQuery
 # <div align='center'>
 <img src='Image2.jpg'>
 </div>
+# <p align='left'/> TASK TWO </p>
+```
+PowerQuery
+=QUERY(A:H,"SELECT C,H WHERE (C='Binder' OR C='Pencil') OR F=2015",1)
+```
+# <div align='center'>
+<img src='Image3.jpg'>
+</div>
