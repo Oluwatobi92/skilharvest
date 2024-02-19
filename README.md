@@ -48,7 +48,7 @@ Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use c
 # <p align='center'/> TASK ONE </p>
 ```
 PowerQuery
-=QUERY(A:H, "SELECT B,C WHERE C='Pen Set' OR C='Binder'",1)
+=QUERY(A:H, "select C,H where (C='Binder' or C='Pencil') AND F=2015",1)
 ```
 # <div align='center'>
 <img src='Image2.jpg'>
@@ -62,3 +62,7 @@ PowerQuery
 # <div align='center'>
 <img src='Image3.jpg'>
 </div>
+
+# <p align='center'/> TASK THREE </p>
+```PowerQuery
+
