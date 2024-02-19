@@ -65,10 +65,25 @@ PowerQuery
 </div>
 
 # <p align='center'/> TASK THREE </p>
-```PowerQuery
+```
+PowerQuery
 =QUERY(A:H, "SELECT A,H WHERE (A='East' or A='Central') AND F=2014",1)
 ```
 
 # <div align='center'>
 <img src='ImageD.JPG'>
 </div>
+
+# <p align='center'/> TASK FOUR </p>
+```
+PowerQuery
+=QUERY(A:H, "SELECT E,H WHERE (E='Aug' OR E='Sep') AND F=2014",1)
+```
+
+# <div align='center'/>
+<img src='ImageE.jpg'>
+</div>
+
+# <p align='center'/> TASK FIVE </p>
+```
+PowerQuery
