@@ -50,9 +50,9 @@ Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use c
 PowerQuery
 =QUERY(A:H, "select C,H where (C='Binder' or C='Pencil') AND F=2015",1)
 ```
-# <div align='center'>
-<img src='Image B.jpg'>
-</div>
+# <div align="center">
+  <img src="Image B.JPG">
+  </div>
 
 # <p align='center'/> TASK TWO </p>
 ```
@@ -60,9 +60,9 @@ PowerQuery
 =QUERY(A:H,"SELECT C,H WHERE (C='Binder' OR C='Pencil') OR F=2015",1)
 ```
 
-# <div align='center'>
-<img src='Image C.jpg'>
-</div>
+# <div align="center">
+  <img src="Image C.JPG">
+  </div>
 
 # <p align='center'/> TASK THREE </p>
 ```
