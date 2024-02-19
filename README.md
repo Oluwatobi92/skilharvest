@@ -87,3 +87,21 @@ PowerQuery
 # <p align='center'/> TASK FIVE </p>
 ```
 PowerQuery
+=QUERY(A:H, "SELECT A,B,C,F,H WHERE C LIKE 'Pen%'",1)
+```
+
+# <div align='center'/>
+<img src='ImageF.jpg'>
+</div>
+
+# <p align='center'/> TASK SIX </p>
+```
+PowerQuery
+=QUERY(A:H, "SELECT A,B,C,F,H WHERE C LIKE '%sk'",1)
+```
+
+# <div align='center'/>
+<img src='ImageG.jpg'>
+</div>
+
+## <p align='left'/> INTRODUCTION TO POWERBI </p>
