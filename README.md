@@ -34,3 +34,6 @@ They play a crucial role in various aspects of business, education and personal 
 ## <p align='left'/> 3.0 POWER QUERY </p>
 Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use cases of power query functions. Below is an excerpt from the datasheet.
 # <p align='center'/> Excerpt From The Datasheet </p>
+# <div align='center'>
+  <img src="image1.png">
+  </div>
