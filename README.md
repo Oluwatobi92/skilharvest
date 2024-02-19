@@ -50,3 +50,6 @@ Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use c
 PowerQuery
 =QUERY(A:H, "SELECT B,C WHERE C='Pen Set' OR C='Binder'",1)
 ```
+# <div align='center'>
+<img src='Image2.jpg'>
+</div>
