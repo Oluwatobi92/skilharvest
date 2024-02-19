@@ -35,7 +35,7 @@ They play a crucial role in various aspects of business, education and personal 
 Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use cases of power query functions. Below is an excerpt from the datasheet.
 # <p align='center'/> Excerpt From The Datasheet </p>
 # <div align="center">
-  <img src="image1.png">
+  <img src="Image A.JPG">
   </div>
   
 ## <p align='left'/> 3.1 POWER QUERY EXERCISES </p>
@@ -51,7 +51,7 @@ PowerQuery
 =QUERY(A:H, "select C,H where (C='Binder' or C='Pencil') AND F=2015",1)
 ```
 # <div align='center'>
-<img src='Image2.jpg'>
+<img src='Image B.jpg'>
 </div>
 
 # <p align='center'/> TASK TWO </p>
@@ -59,10 +59,16 @@ PowerQuery
 PowerQuery
 =QUERY(A:H,"SELECT C,H WHERE (C='Binder' OR C='Pencil') OR F=2015",1)
 ```
+
 # <div align='center'>
-<img src='Image3.jpg'>
+<img src='Image C.jpg'>
 </div>
 
 # <p align='center'/> TASK THREE </p>
 ```PowerQuery
+=QUERY(A:H, "SELECT A,H WHERE (A='East' or A='Central') AND F=2014",1)
+```
 
+# <div align='center'>
+<img src='ImageD.JPG'>
+</div>
