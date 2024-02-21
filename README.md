@@ -34,9 +34,7 @@ They play a crucial role in various aspects of business, education and personal 
 ## <p align='left'/> 3.0 POWER QUERY </p>
 Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use cases of power query functions. Below is an excerpt from the datasheet.
 # <p align='center'/> Excerpt From The Datasheet </p>
-# <div align="center">
-  <img src="Image A.JPG">
-  </div>
+# <div align="center"><img src="Image A.JPG"></div>
   
 ## <p align='left'/> 3.1 POWER QUERY EXERCISES </p>
 1. Show the sales rep whose items are Pen Set and binders
@@ -50,9 +48,7 @@ Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use c
 PowerQuery
 =QUERY(A:H, "select C,H where (C='Binder' or C='Pencil') AND F=2015",1)
 ```
-# <div align="center">
-  <img src="Image B.JPG">
-  </div>
+# <div align="center"><img src="Image B.JPG"></div>
 
 # <p align='center'/> TASK TWO </p>
 ```
@@ -60,9 +56,7 @@ PowerQuery
 =QUERY(A:H,"SELECT C,H WHERE (C='Binder' OR C='Pencil') OR F=2015",1)
 ```
 
-# <div align="center">
-  <img src="Image C.JPG">
-  </div>
+# <div align="center"><img src="Image C.JPG"></div>
 
 # <p align='center'/> TASK THREE </p>
 ```
@@ -70,9 +64,7 @@ PowerQuery
 =QUERY(A:H, "SELECT A,H WHERE (A='East' or A='Central') AND F=2014",1)
 ```
 
-# <div align='center'>
-<img src='ImageD.JPG'>
-</div>
+# <div align='center'><img src='ImageD.JPG'></div>
 
 # <p align='center'/> TASK FOUR </p>
 ```
@@ -80,9 +72,7 @@ PowerQuery
 =QUERY(A:H, "SELECT E,H WHERE (E='Aug' OR E='Sep') AND F=2014",1)
 ```
 
-# <div align='center'/>
-<img src='ImageE.JPG'>
-</div>
+# <div align='center'/><img src='ImageE.JPG'></div>
 
 # <p align='center'/> TASK FIVE </p>
 ```
@@ -90,9 +80,7 @@ PowerQuery
 =QUERY(A:H, "SELECT A,B,C,F,H WHERE C LIKE 'Pen%'",1)
 ```
 
-# <div align='center'/>
-<img src='ImageF.JPG'>
-</div>
+# <div align='center'/><img src='ImageF.JPG'></div>
 
 # <p align='center'/> TASK SIX </p>
 ```
@@ -100,8 +88,6 @@ PowerQuery
 =QUERY(A:H, "SELECT A,B,C,F,H WHERE C LIKE '%sk'",1)
 ```
 
-# <div align='center'/>
-<img src='ImageG.JPG'>
-</div>
+# <div align='center'/><img src='ImageG.JPG'></div>
 
 ## <p align='left'/> 4.0 INTRODUCTION TO POWERBI </p>
