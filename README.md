@@ -34,7 +34,7 @@ They play a crucial role in various aspects of business, education and personal 
 ## <p align='left'/> 3.0 POWER QUERY </p>
 Here, we use _**Skillharvest_Stationary_Supplies.csv**_ to demonstrate the use cases of power query functions. Below is an excerpt from the datasheet.
 # <p align='center'/> Excerpt From The Datasheet </p>
-# <div align="center"><img src="Image A.JPG"></div>
+# <div align="center"><img src="Images/ImageA.JPG"></div>
   
 ## <p align='left'/> 3.1 POWER QUERY EXERCISES </p>
 1. Show the sales rep whose items are Pen Set and binders
