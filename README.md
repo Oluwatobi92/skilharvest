@@ -81,3 +81,10 @@ PowerQuery
 ```
 # <div align='center'/><img src='Images/ImageG.JPG'></div>
 ## <p align='left'/> 4.0 INTRODUCTION TO POWERBI </p>
+During the Skilharvest data analysis bootcamp, Igained proficiency in Power BI and enhance my data analysis skills. Specifically, I learned about DAX functions, data visualizations, and data transformation using Power Query Editor. Some of the topicscovered includes;
+- **A. Data Visualizations:** I delved into the world of data visualizations, discovering the different types of charts, graphs, and visuals available in Power BI. Through hands-on exercises, I learned how to create effective visualizations to communicate insights and trends in data.
+- **B. Power Query Editor:** Power Query Editor became a vital tool in my data analysis toolkit. I learned how to clean, transform, and shape data using Power Query Editor, performing tasks such as data cleaning, filtering, merging, and appending data tables.
+- **C. DAX Functions:** In this section, I learned about the fundamentals of DAX (Data Analysis Expressions) functions and their role in Power BI. I explored commonly used functions such as CALCULATE, SUM, AVERAGE, and more, and practiced using them in various scenarios.
+- Throughout the bootcamp, I completed several hands-on projects to apply my newfound knowledge. These projects allowed me to practice using DAX functions, creating data visualizations, and transforming data using Power Query Editor.
+## <p align='left'/> Conclusion </p>
+In conclusion, the Skilharvest data analysis bootcamp was an enriching experience that equipped me with valuable skills and knowledge in data analysis. I am grateful for the opportunity to learn and grow, and I look forward to applying my newfound skills in future projects and endeavors.
